@@ -1,0 +1,31 @@
+.container {
+    padding: 20px;
+    text-align: center;
+    background-color: #e6e6e6; /* Cinza claro */
+    border-radius: 10px; /* Adicionando bordas arredondadas */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Adicionando sombra */
+    margin: 20px; /* Margem ao redor do container */
+}
+
+h2 {
+    color: #e23e57; /* Vermelho */
+    margin-bottom: 15px; /* Espaçamento abaixo do título */
+}
+
+.horario {
+    font-size: 18px;
+    color: #ce1f3a; /* Vermelho escuro */
+    margin: 10px 0; /* Espaçamento vertical */
+}
+
+.camisetas {
+    margin-top: 20px;
+    background-color: #ef97a4; /* Rosa claro */
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.imgCamisetas {
+    border-radius: 5px; /* Arredondamento da imagem */
+    margin-top: 10px; /* Espaçamento acima da imagem */
+}
